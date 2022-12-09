@@ -4,7 +4,6 @@ My Advent Of Code adventure
 </br>
 
 ## ✔️ Before start
----
 * Make sure you got **node.js** installed on your machine, if you don't, go to the [official website](https://nodejs.org/en/download/)
 
 ```shell
@@ -13,7 +12,6 @@ $ npm -v
 </br>
 
 ## 🚀 Launch project
----
 * Clone the repository
 
 ```shell
@@ -36,7 +34,6 @@ $ npm link
 </br>
 
 ## 🛠️ Create a new day
----
 
 Each day, a new algorithm, a template is here to help you, just run this command to create a new folder
 
