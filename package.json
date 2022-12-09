@@ -1,0 +1,27 @@
+{
+  "name": "codeadvent",
+  "version": "1.0.0",
+  "description": "Advent Of Code library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanM38/Advent-Of-Code.git"
+  },
+  "keywords": [
+    "algo",
+    "node",
+    "advent"
+  ],
+  "author": "JeanM38[https://github.com/JeanM38]",
+  "license": "ISC",
+  "bin": {
+    "new-day": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/JeanM38/Advent-Of-Code/issues"
+  },
+  "homepage": "https://github.com/JeanM38/Advent-Of-Code#readme"
+}
